@@ -1,6 +1,6 @@
 {
   "name": "@scor32k/auth",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "auth package.",
   "main": "index.js",
   "scripts": {},
