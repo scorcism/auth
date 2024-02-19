@@ -1,0 +1,23 @@
+{
+  "name": "@scor32k/auth",
+  "version": "1.0.0",
+  "description": "auth package.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scorcism/auth.git"
+  },
+  "keywords": [
+    "Auth"
+  ],
+  "author": "Abhishek(scorcism) Pathak <abhishekpathak1720@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scorcism/auth/issues"
+  },
+  "homepage": "https://github.com/scorcism/auth#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
